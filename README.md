@@ -1,4 +1,4 @@
-# Tickers Fetcher
+# Tickers
 
 A simple Python tool to fetch and compile stock ticker information from multiple markets.
 
